@@ -16,6 +16,6 @@ I'm Ammon, a student at Brigham Young University-Idaho interested in software de
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/ammon-jones-90044b151) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/ammon-jones-90044b151) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
