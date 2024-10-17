@@ -2,12 +2,13 @@
 
 Hello, GitHub! 👋
 
-I'm Ammon, a student at Brigham Young University-Idaho interested in software development in particular full stack web development. Welcome to my GitHub profile!
+I am an entry level full stack engineer specializing in the MERN stack. 
 
 ## About Me
 
-- I'm currently learning software development
-- I'm looking to find work but not just any kind of work. I want to spend my time and use my skills to work on something I find adds value to peoples lives in a meaningful way as well as somethign that I find really interesting. 
+- I graduated with a BS degree in software development with a 3.9 GPA
+- I have done two internships in full stack development both using react on the frontend, one using express, and the other c# .net on the backend.
+- I'm looking to find work but not just any kind of work. I want to spend my time and use my skills to work on something I find adds value to peoples lives in a meaningful way as well as somethign that I find    really interesting. I am open to all kinds of work full time, part time, contract, freelance. 
 
 ## Technologies and Tools
 
